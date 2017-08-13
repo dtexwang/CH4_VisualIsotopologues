@@ -1,0 +1,5 @@
+SamCat	SamName	d13C_PDB	ud13C_PDB	dD_SMOW_preNGS	udD_SMOW	Del_stoch	uDel_stoch	T13D	dD_water	udD_w	a_mw_preNGS	Tenv	uTenv	H2_l	H2_u	dD_SMOW	a_mw	
+HeatedGases	150 C					3.14	0.34	144				150	5					
+HeatedGases	170 C					2.82	0.22	168				170	5					
+HeatedGases	250 C					1.96	0.19	253				250	5					
+HeatedGases	400 C					1.37	0.26	347				400	5					

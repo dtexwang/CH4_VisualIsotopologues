@@ -1,0 +1,13 @@
+ref.,top,bottom
+HC,liq,m
+C,vap,h
+S,vap,h
+HC,liq,h
+HC,m,h
+BW,vap,h
+HW,liq,vap
+B,m,vap
+W09,ch3,liq
+W09,ch2,liq
+W09,ch2me,liq
+R76,liq,h

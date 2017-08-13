@@ -1,0 +1,19 @@
+SamCat	label	markerUnique	symbol	color	mfc	ms	mew	linewidth	ecolor	elinewidth	capsize	alpha	markerALT	colorALT	colorALT2	mec
+Cow	Cow Rumen	p		#f7f7f7	#ff8c19	11	1	0	k	1	0	0.5	o	#ffff00	DarkGray	k
+SwampY	Atlantic White Cedar Swamp	>		#f7f7f7	#ff8c19	11	1	0	k	1	0	0.5	o	#ffff00	DarkGray	k
+NCM	Northern Cascadia Margin	o		#f7f7f7	#ff8c19	9	1	0	k	1	0	0.5	o	#ffff00	DarkGray	k
+UML	Upper Mystic Lake	^		#f7f7f7	#ff8c19	11	1	0	k	1	0	0.5	o	#ffff00	DarkGray	k
+LML	Lower Mystic Lake	v		#f7f7f7	#ff8c19	11	1	0	k	1	0	0.5	o	#ffff00	DarkGray	k
+PRB	Powder River Basin	<		#f7f7f7	#ff8c19	11	1	0	k	1	0	0.5	o	#ffff00	DarkGray	k
+Cedars	The Cedars	d		#f7f7f7	#ff8c19	10	1	0	k	1	0	0.5	o	#ffff00	w	k
+CROMO	CROMO	*		k	k	17	1	0	k	1	0	0.5	o	k	w	k
+NAB	Northern Appalachian Basin	s		#f1a340	#d9d9d9	10	1	0	k	1	0	0.5	s	#f92636	r	k
+Guaymas	Guaymas	h		#f1a340	#d9d9d9	11	1	0	k	1	0	0.5	s	#f92636	r	k
+Kidd Creek	Kidd Creek	D		#998ec3	#00ffff	7	1	0	k	1	0	0.5	D	#6ad7ec	#00ffff	k
+StolpT	Stolper et al. (2014) thermogenic	o		k	#ff9994	4	1	0	k	1	0	0.7	.	#f92636	r	k
+StolpB	Stolper et al. (2014) biogenic	o		k	k	4	1	0	k	1	0	0.7	.	#ffff00	grey	k
+Bremen	mesophilic hydrogenotrophs	o		k	SkyBlue	10	1	0	k	1	0	1		SkyBlue	SkyBlue	k
+JH_Mt	Methanothermococcus thermolithotrophicus	D		k	w	8	1	0	k	1	0	1		w	w	k
+JH_Mj	Methanocaldococcus jannaschii	s		k	Red	8	1	0	k	1	0	1		Red	Red	k
+JH_JH146	Methanocaldococcus JH146	^		k	Red	10	1	0	k	1	0	1		Red	Red	k
+HeatedGases	Equilibrated Gases	o		k	k	6	1	0	k	1	0	1		k	k	k
