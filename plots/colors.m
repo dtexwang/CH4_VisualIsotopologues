@@ -2,6 +2,8 @@ function c = colors(colorname)
 % colors('amber')
 % returns RGB tuples adapted from
 % http://en.wikipedia.org/wiki/List_of_colors
+
+% from John Kitchin @ https://github.com/jkitchin/matlab-cmu/tree/master/%2Bcmu
 color_database = containers.Map();
 color_database('air force blue')=[0.360000 0.540000 0.660000];
 color_database('alice blue')=[0.940000 0.970000 1.000000];
